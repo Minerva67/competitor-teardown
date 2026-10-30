@@ -4,6 +4,14 @@
 
 这个 skill 分三层取证，每个结论都标注来自哪一层。你能分清哪些可以直接用来做决策，哪些还需要再验证。
 
+## 示例
+
+下图是用同一套分层取证方法写的 HeyGen 拆解（节选）。材料来自官网、定价页、帮助中心、第三方评价和融资公告；登录后台的部分用 Free 档账号实测，没有消耗额度。
+
+完整页面：[examples/heygen-teardown.html](examples/heygen-teardown.html)（下载后用浏览器打开）
+
+![示例截图](examples/preview.jpg)
+
 ## 适合什么时候用
 
 - 拆解一个产品，看看这家竞品是怎么做的
@@ -51,6 +59,7 @@
 - `references/report-structure.md`：报告章节和每节写法
 - `references/evidence-playbook.md`：每层看什么、怎么取、什么算可靠证据
 - `scripts/screenshot-pipeline.js`：把后台界面截图保存成文件的代码
+- `examples/`：示例产出和截图
 
 ## 安装
 
